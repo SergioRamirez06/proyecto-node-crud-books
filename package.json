@@ -1,5 +1,5 @@
 {
-  "name": "proyecto-node-crud",
+  "name": "proyecto-node-crud-books",
   "version": "0.0.1",
   "description": "Haremos un crud con nodeJS, Docker, MongoDB",
   "main": "src/app.js",
